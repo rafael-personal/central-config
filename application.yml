@@ -2,4 +2,4 @@ project:
   name: microservice-cloud bestline
 application:
   name: ark application
-  enc: '{cipherXXX}FKSAJDFGYOS8F7GLHAKERGFHLSAJ'
+  enc: '{ciphe}FKSAJDFGYOS8F7GLHAKERGFHLSAJ'
