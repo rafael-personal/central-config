@@ -1,2 +1,4 @@
 project:
   name: microservice-cloud bestline
+application:
+  name: ark application
