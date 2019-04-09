@@ -3,3 +3,14 @@ project:
 application:
   name: ark application
   enc: '{cipher}AQAPtia3qWV+GGJmSNE6ZqhKAE+1nmleQTx3JmhX0HUXHZLZLE7h5URBGFSDBTqNBKBV7FfUjgdUVYCesrOU3nMXBX/56pXUTqO8oG4vXYjG8QibTwGmYwOydhQ1hLRuco4IZFZ3tpQbtHEnjBWTX0cyhjDr6aGW8AokbVXNfLKAbUUPBSszkZ1Vdre9UhbUdjs5E5LYj+SreRGkCA9I9pUh7ZXbflHO7zf6g844OHxyIrzRRbMtQV3rbgdhDziXRti+T87atLwr2ViJaHH30jPzTSL9lCPU1oC21ErWnoICom+pRXBv2f4CliIXQT1D1vnxDnAU7GWBobs56uqE7G57ko6eXaClY8l1knw3r5pg+mYgIXyZbkb4n3kGL9M24Ro='
+database:
+  dbclaro:
+    jdbcUrl: jdbc:mysql://dbauroraclarodev.cx053an4mesk.us-east-1.rds.amazonaws.com:3306/dbclarodesarrollo
+    username: adminclaro
+    password: 4dm1ncl4r02018+!#dev
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    connectionTimeout: 3000
+    maxLifetime: 3600000
+    maximumPoolSize: 20
+    minimumIdle:1
+    idleTimeout: 10000
