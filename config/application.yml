@@ -1,2 +1,13 @@
 project:
   name: microservice-cloud bestline
+database:
+  dbclaro:
+    jdbcUrl: jdbc:mysql://dbauroraclarodev.cx053an4mesk.us-east-1.rds.amazonaws.com:3306/dbclarodesarrollo
+    username: adminclaro
+    password: 4dm1ncl4r02018+!#dev
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    connectionTimeout: 3000
+    maxLifetime: 3600000
+    maximumPoolSize: 20
+    minimumIdle:1
+    idleTimeout: 10000
