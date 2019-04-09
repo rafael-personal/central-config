@@ -12,5 +12,3 @@ database:
     connectionTimeout: 3000
     maxLifetime: 3600000
     maximumPoolSize: 20
-    minimumIdle:1
-    idleTimeout: 10000
